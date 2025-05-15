@@ -1,5 +1,7 @@
 # How To Unblock Amazon Proxy
 
+We invite you to explore our [blog](https://crawlbase.com/blog/how-to-unblock-amazon-with-smart-proxy/) for more details.
+
 ## Setting Up Your Coding Environment
 
 Before building your Amazon proxy unblocker, you'll need to set up a basic Python environment. Here's how to get started:
