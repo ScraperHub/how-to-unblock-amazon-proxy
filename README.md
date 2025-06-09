@@ -15,7 +15,7 @@ Before building your Amazon proxy unblocker, you'll need to set up a basic Pytho
 
 ## Running the Example Scripts
 
-Before running the examples, make sure to replace every instance of `"<Normal requests token>"` with your [Private Token](https://crawlbase.com/dashboard/account/docs).
+Before running the examples, make sure to replace every instance of `<Private token>` with your [Private Token](https://crawlbase.com/dashboard/account/docs).
 
 ### Example Scripts
 

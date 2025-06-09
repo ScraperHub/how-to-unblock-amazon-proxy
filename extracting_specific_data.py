@@ -5,10 +5,10 @@ from urllib3.exceptions import InsecureRequestWarning
 requests.packages.urllib3.disable_warnings(category=InsecureRequestWarning)
 
 url_to_crawl = "https://www.amazon.com/Apple-iPhone-Silicone-Case-MagSafe/dp/B0CHX2XFLN"
-crawlbase_normal_token = "<Normal requests token>"
+crawlbase_private_token = "<Private token>"
 crawlbase_crawling_api_parameters = "scraper=amazon-product-details"
 crawlbase_smart_proxy_url = (
-    f"https://{crawlbase_normal_token}:@smartproxy.crawlbase.com:8013"
+    f"https://{crawlbase_private_token}:@smartproxy.crawlbase.com:8013"
 )
 
 try:
