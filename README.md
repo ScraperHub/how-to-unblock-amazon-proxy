@@ -1,6 +1,6 @@
 # How To Unblock Amazon Proxy
 
-We invite you to explore our [blog](https://crawlbase.com/blog/how-to-unblock-amazon-with-smart-proxy/) for more details.
+We invite you to explore our [blog](https://crawlbase.com/blog/how-to-unblock-amazon-with-smart-proxy/?utm_source=github&utm_medium=referral&utm_campaign=scraperhub&ref=gh_scraperhub) for more details.
 
 ## Setting Up Your Coding Environment
 
@@ -48,6 +48,9 @@ An error occurred: HTTPSConnectionPool(host='www.amazon.com', port=443): Max ret
 ```
 
 This is typically a temporary issue. Simply rerun the command, and it should resolve itself.
+
+🛡 Disclaimer
+This repository is for educational purposes only. Please make sure you comply with the Terms of Service of any website you scrape. Use this responsibly and only where permitted.
 
 ---
 
